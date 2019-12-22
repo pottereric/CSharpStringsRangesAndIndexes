@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStringsRangesAndIndexes", "CSharpStringsRangesAndIndexes\CSharpStringsRangesAndIndexes.csproj", "{D570B847-9E95-4F8D-A9C6-F280D012FC09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStringsRangesAndIndexesUnitTests", "CSharpStringsRangesAndIndexesUnitTests\CSharpStringsRangesAndIndexesUnitTests.csproj", "{11C4551F-D7E5-44B7-A563-F901E4491538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D570B847-9E95-4F8D-A9C6-F280D012FC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D570B847-9E95-4F8D-A9C6-F280D012FC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D570B847-9E95-4F8D-A9C6-F280D012FC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D570B847-9E95-4F8D-A9C6-F280D012FC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C4551F-D7E5-44B7-A563-F901E4491538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C4551F-D7E5-44B7-A563-F901E4491538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C4551F-D7E5-44B7-A563-F901E4491538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C4551F-D7E5-44B7-A563-F901E4491538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0810052A-9B3C-4D69-A337-CC0D3CE39D2E}
+	EndGlobalSection
+EndGlobal
